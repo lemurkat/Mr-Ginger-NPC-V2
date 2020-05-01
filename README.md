@@ -1,5 +1,9 @@
 # Mr-Ginger-NPC-V2
 V2 of my Stardew Valley mod. 
+
+** Mr Ginger V2 is almost 100% complete and operative. Some aspects have not been fully tested (ie: divorce). The only reason it has not been uploaded to Nexus is due to my general lack of confidence in its reception.
+(Also, some people think being able to marry the cat is weird, and I should hold off releasing it until the "room-mate" function can include Custom NPCs.) **
+
 This contains the regular (released on Nexus) mod, plus the following additional features:
 - Mr Ginger becomes datable after 6 hearts.
 - You can dance with him at the flower dance.
