@@ -1,0 +1,63 @@
+{
+	"festivalSpots": [  
+        {
+        "name": "MisterGinger",
+        "map": "Town-EggFestival", 
+        "position": [47, 71],
+        "direction": 2
+        },
+	{
+        "name": "MisterGinger",
+        "map": "Forest-FlowerFestival", 
+        "position": [19, 20],
+        "direction": 2,
+        "position2": [8,30],
+        "direction2": 0
+        },
+	{
+        "name": "MisterGinger",
+        "map": "Beach-Luau", 
+        "position": [32, 34],
+        "direction": 2
+        },
+	{
+        "name": "MisterGinger",
+        "map": "Beach-Jellies", 
+        "position": [55, 7],
+        "direction": 2
+        },
+	{
+        "name": "MisterGinger",
+        "map": "Town-Fair", 
+        "position": [41, 86],
+        "direction": 1
+        },
+	{
+        "name": "MisterGinger",
+        "map": "Town-Halloween", 
+        "position": [18, 52],
+        "direction": 3
+        },
+	{
+        "name": "MisterGinger",
+        "map": "Forest-IceFestival", 
+        "position": [11, 45],
+        "direction": 0
+        },
+	 {
+        "name": "MisterGinger",
+        "map": "Town-Christmas", 
+        "position": [28, 48],
+        "direction": 2
+        }
+
+    ],  
+
+    
+    "spouseRooms": [
+              {
+            "name": "MisterGinger",
+                "file": "assets/SpouseRoomMrGinger.tmx"
+          }
+        ]
+    } 
