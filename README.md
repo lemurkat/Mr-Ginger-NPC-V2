@@ -13,11 +13,11 @@ This contains the regular (released on Nexus) mod, plus the following additional
 - additional dialogue from other chars.
 
 Required to run it:
-- Content Patcher
-- TMXL
+- Content Patcher (https://www.nexusmods.com/stardewvalley/mods/1915)
+- TMXL (https://www.nexusmods.com/stardewvalley/mods/1820)
 
 Useful but not compulsory:
-- Miss Coriel's Unique Courtship Dialogue (makes bouquet acceptance less weird).
-- Pregnancy roles (to remove any oddness that might ensue if you are a female farmer married to Mr Ginger).
+- Miss Coriel's Unique Courtship Dialogue (https://www.nexusmods.com/stardewvalley/mods/3312)(makes bouquet acceptance less weird).
+- Pregnancy role (https://www.nexusmods.com/stardewvalley/mods/5762) (to remove any oddness that might ensue if you are a female farmer married to Mr Ginger).
 
 To run it: unzip the file into your SDV "Mods" folder.
