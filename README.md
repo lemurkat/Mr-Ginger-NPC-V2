@@ -18,6 +18,6 @@ Required to run it:
 
 Useful but not compulsory:
 - Miss Coriel's Unique Courtship Dialogue (makes bouquet acceptance less weird).
-- Pregnancy roles NOT YET PROGRAMMED INTO THE CODE (but will be soon) (to remove any oddness that might ensue if you are a female farmer married to Mr Ginger).
+- Pregnancy roles (to remove any oddness that might ensue if you are a female farmer married to Mr Ginger).
 
 To run it: unzip the file into your SDV "Mods" folder.
